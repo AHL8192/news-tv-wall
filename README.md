@@ -3,7 +3,7 @@ for your favorite news channels
 --------------------------------------------
 On Windows:
 
-powershell```
+```powershell
 $zipUrl = "https://github.com/AHL8192/news-tv-wall/releases/download/v2/global-news-terminal.zip"
 $zipPath = Join-Path $PWD "global-news-terminal.zip"
 
